@@ -78,8 +78,8 @@ Random Forest is utilized as the primary algorithm, along with Logistic Regressi
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/R-Mahesh45/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/R-Mahesh45/Fraud-Detection-and-Sales-Analysis-using-Random-Forest.git
+   cd Fraud-Detection-and-Sales-Analysis-using-Random-Forest
    ```
 
 2. Install dependencies:  
@@ -113,4 +113,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 For any queries, please reach out to:  
 **Mahesh Anil Rathod**  
 **Email**: maheshrathod2236@gmail.com  
-**GitHub**: ((https://github.com/R-Mahesh45))  
